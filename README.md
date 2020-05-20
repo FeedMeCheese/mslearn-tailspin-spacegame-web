@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/stevecross/Space%20game%20-%20web%20-%20pipeline/_apis/build/status/FeedMeCheese.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/stevecross/Space%20game%20-%20web%20-%20pipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
